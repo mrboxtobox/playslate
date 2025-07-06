@@ -65,6 +65,15 @@ PlaySlate uses several delightful features to create a magical experience:
 - Gradient backgrounds and CSS animations
 - Responsive design that works on any screen size
 
+## 🔐 Backend & Authentication
+
+The backend is built with Go and includes:
+- User authentication system
+- Google OAuth integration
+- Magic link email authentication
+- User subscription management
+- Secure middleware for API protection
+
 ---
 
 Built with ❤️ for curious kids and creative minds everywhere!
